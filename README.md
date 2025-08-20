@@ -148,6 +148,11 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 👤 Author
+
+- GitHub: [@hooriaajmal](https://github.com/hooriaajmal)
+- Email: hooriaajmal9@gmail.com
+
 ## 🙏 Acknowledgments
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
@@ -155,14 +160,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vite](https://vitejs.dev/) - Next generation frontend tooling
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React
 - [Lucide React](https://lucide.dev/) - Beautiful & consistent icon toolkit
-
-## 📞 Support
-
-If you have any questions or need help, please:
-
-- Open an [issue](https://github.com/yourusername/taskflow/issues)
-- Contact us at support@taskflow.com
-- Check our [documentation](https://docs.taskflow.com)
 
 ---
 
