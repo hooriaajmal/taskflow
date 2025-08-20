@@ -16,7 +16,7 @@ A modern, responsive task management web application built with React and Tailwi
 - **Customizable Workflows**: Adapt the system to your specific needs
 - **Performance Optimized**: Built with Vite for lightning-fast development and builds
 
-![Hero](https://github.com/hooriaajmal/taskflow/blob/main/src/assets/taskflow.png)
+![Hero](https://github.com/hooriaajmal/taskflow/blob/main/src/assets/taskflow.jpeg)
 
 
 ## 🛠️ Tech Stack
